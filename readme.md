@@ -3,10 +3,10 @@
 
 ## Introduction
 
-ShareX Gate is the solution for having a self-hosted service for everything ShareX provides, like image, video and file hosting, text-snippet sharing and url shortening.
+ShareX Gate is the solution for having a self-hosted service for everything [ShareX](https://getsharex.com/) provides, like image, video and file hosting, text-snippet sharing and url shortening.
 So basicly just a file server with some extra features, designed to be used with ShareX.
 
-**ShareX uses these providers by default:**
+**[ShareX](https://getsharex.com/) uses these providers by default:**
 - Image Sharing: Imagur
 - Video Sharing: Streamable
 - Text/Snippet Sharing: Pastebin
